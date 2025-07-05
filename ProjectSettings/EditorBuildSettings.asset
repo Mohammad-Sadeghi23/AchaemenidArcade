@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/MainMenu.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/HubWorld.unity
+    guid: fe72289bf5f571e41b15caec2e243f51
+  - enabled: 1
+    path: Assets/Scenes/ArcheryTrials.unity
+    guid: d6819532bcad75e41a3ea87d058652f6
+  - enabled: 1
+    path: Assets/Scenes/ImmortalArena.unity
+    guid: fafefd353623b144db388e0020bf8de3
+  - enabled: 1
+    path: Assets/Scenes/CourierRush.unity
+    guid: dc7bd6a51b6a05a44a3120a0734e0372
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
